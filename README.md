@@ -6,5 +6,5 @@ Vinicius Zanin | Estágiario Desenvolvedor
 </div>
 </div>
 <div style ="display: inline_block"><br>
-  <img aling="right" alt="75682" src"https://giffiles.alphacoders.com/756/75682.gif">
+  <img aling="right" alt="75682" src="https://giffiles.alphacoders.com/756/75682.gif">
 </div>
